@@ -1,0 +1,6 @@
+Name: Gouthami
+Course:AI-ML
+Batch: sep_evng 2026
+
+Short Introduction:
+I am a postgraduate Data Science student interested in data analytics, Python, SQL, and machine learning. I am developing my technical skills through academic projects and practical learning.
